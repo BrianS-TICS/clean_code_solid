@@ -1,5 +1,5 @@
 import './style.css'
-import './clean_code/07_tarea.ts';
+import './code_smells/02_high_coupling';
 
 const app = document.querySelector<HTMLDivElement>('#app')!
 
