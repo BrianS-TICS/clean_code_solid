@@ -1,6 +1,6 @@
 import './style.css'
-// import './solid/02_opc-a';
-import './solid/03_liskov-a';
+import './solid/05_dependency-a.ts';
+// import './solid/03_liskov-a';
 
 const app = document.querySelector<HTMLDivElement>('#app')!
 
